@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stage</string>
+    <string name="video_button">Video Record Online</string>
+    <string name="camera_button">Take Picture</string>
+</resources>
